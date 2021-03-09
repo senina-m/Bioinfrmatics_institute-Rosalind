@@ -8,4 +8,4 @@ m = int(data[1])
 n = int(data[2])
 t = k + n + m
 
-print((k*(k-1)+2/3*m*(m-1)+2*k*(n+m) + n*m)/(t*(t-1)))
+print((k*(k-1)+3/4*m*(m-1)+2*k*(n+m) + n*m)/(t*(t-1)))
